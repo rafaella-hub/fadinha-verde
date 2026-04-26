@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fadinha Verde</title>
+
+<style>
+body {
+    background: #f4fff4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial;
+}
+
+button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 18px 30px;
+    border-radius: 14px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<button>
+💚 Acompanhar Livro
+</button>
+
+</body>
+</html>0
+
